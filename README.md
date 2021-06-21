@@ -14,7 +14,7 @@ Fontes:
 
 • Fonte das palavras: dalton5000/Godot-Fontpack: A collection of open fonts ready to use in Godot projects (github.com)
 
-• Som Apple Bite Sounds | Effects | Sound Bites | Sound Clips from SoundBible.com
+• Som Apple Bite Sounds | Effects | Sound Bites | Sound Clips from SoundBible.com [link]
 
 • Tutorial de Menu: https://youtu.be/Mx3iyz8AUAE
 
