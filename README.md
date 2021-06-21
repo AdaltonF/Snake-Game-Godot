@@ -1,8 +1,19 @@
-# Godot-Fontpack
-A collection of open fonts ready to use in Godot projects.
+# Description
 
-Each font folder contains the .tres file for Godot, additional font versions if they available and its license file.
+Notas:
+• Os botões “Options” e o “Music” (menu de pausa - ESC) não funcionam porque não consegui fazer .
+• Enquanto estiver jogando, se você apertar alguma das setas e, rapidamente, apertar outra em sentido contrário ao da cobra, ela morrerá...
+• O placar não zera quando uma nova rodada começa, mas ao coletar a primeira maçã, o placar reinicia a contagem corretamente.
 
-Preview of all fonts in this pack:
 
-![alt text](https://raw.githubusercontent.com/dalton5000/Godot-Fontpack/master/fonts/overview.PNG "Preview Image")
+Fontes:
+• Snake Graphics: Snake Graphics | OpenGameArt.org
+• Fonte das palavras: dalton5000/Godot-Fontpack: A collection of open fonts ready to use in Godot projects (github.com)
+• Som Apple Bite Sounds | Effects | Sound Bites | Sound Clips from SoundBible.com
+• Tutorial de Menu: https://youtu.be/Mx3iyz8AUAE
+• Tutorial Jogo: https://youtu.be/-I_AdBkryoU
+• Música: Lounge Game1 - Royalty Free Music (dl-sounds.com)
+
+
+Alguns dos assets usados exigem atribuição na licença de uso.
+
