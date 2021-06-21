@@ -9,6 +9,7 @@ Notas:
 
 
 Fontes:
+
 • Snake Graphics: Snake Graphics | OpenGameArt.org
 
 • Fonte das palavras: dalton5000/Godot-Fontpack: A collection of open fonts ready to use in Godot projects (github.com)
