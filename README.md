@@ -12,7 +12,7 @@ Fontes:
 
 • Snake Graphics: Snake Graphics | OpenGameArt.org
 
-• ![alt]Fonte das palavras: dalton5000/Godot-Fontpack: A collection of open fonts ready to use in Godot projects (github.com)
+• Fonte das palavras: dalton5000/Godot-Fontpack: A collection of open fonts ready to use in Godot projects (github.com)
 
 • Som Apple Bite Sounds | Effects | Sound Bites | Sound Clips from SoundBible.com [link]
 
